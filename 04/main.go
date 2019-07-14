@@ -9,5 +9,5 @@ func main() {
 	
 	result := num1 + num2
 	
-	fmt.Printf("%d", result)
+	fmt.Printf("%d과 %d의 합은 %d입니다.",num1, num2, result)
 }
