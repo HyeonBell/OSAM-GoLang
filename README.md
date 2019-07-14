@@ -1,3 +1,6 @@
 # OSAM-GoLANG
 
-01 - main.go execute : go run main.go
+- go 실행 방법
+go run [실행 goLang].go
+
+01 - main.go "Hello world!"
